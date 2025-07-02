@@ -1,0 +1,9 @@
+order_date,order_id,shipping_date,customer_name,country,category,quantity,unit_price,total_price,month,shipping_delay
+2025-01-03,1001,2025-01-05,Anna,Germany,Office Supplies,2,100,200,January,2
+2025-01-10,1002,2025-01-14,Ben,Germany,Technology,1,300,300,January,4
+2025-01-25,1003,2025-01-28,Anna,Germany,Technology,3,250,750,January,3
+2025-02-01,1004,2025-02-03,Ben,France,Office Supplies,2,150,300,February,2
+2025-02-15,1005,2025-02-20,Clara,Germany,Furniture,1,400,400,February,5
+2025-02-28,1006,2025-03-03,Ben,France,Technology,4,280,1120,February,3
+2025-03-05,1007,2025-03-08,Anna,Germany,Furniture,2,350,700,March,3
+2025-03-20,1008,2025-03-25,Clara,Germany,Office Supplies,5,90,450,March,5
