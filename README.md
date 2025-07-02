@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐼 Pandas Real-World Data Analysis Project
 
 This repository contains a complete practical training in **Pandas** — a powerful data analysis library in Python — structured as a 10-day hands-on journey, from beginner to real-world project level. It simulates the type of analytical tasks performed by data professionals in industries, including retail analytics, time-series analysis, and reporting.
@@ -79,3 +80,7 @@ Explore Matplotlib & Seaborn for professional data visualization
 Prepare dashboard-style reports
 
 Integrate with real datasets (e.g., from Kaggle or open-data portals)
+=======
+# pandas-data-analysis
+“Real-world data analysis projects using Pandas”
+>>>>>>> 04d747e3bc2bbf5b31c69e57de33dfa59189b6e8
